@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning more about the JavaScript universe using React.js, Next.js, Node.js and finally React Native using TypeScript and much more such as Java & Docker.
 - ⚡ Fun fact: I am crazy about Aviation.
 
-##
-
 [![Twitter Badge](https://img.shields.io/badge/-@therealdavid98-121214?style=flat-square&labelColor=121214&logo=twitter&logoColor=white&link=https://twitter.com/therealdavid98)](https://twitter.com/therealdavid98) 
 [![Linkedin Badge](https://img.shields.io/badge/-David%20Lucas-121214?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-lucas-32695512a/)](https://www.linkedin.com/in/david-lucas-32695512a/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucas1998david@gmail.com-121214?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas1998david@gmail.com)](mailto:lucas1998david@gmail.com)
