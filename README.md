@@ -9,7 +9,7 @@ I started my own website so I could share a few things that I am working with, y
 
 ### Technologies
 * Frontend Development with HTML, CSS (SASS and Styled Component as well), JavaScript, React, NextJS and AngularJS.
-* Mobile Development with React Native - I am currently studying Java to start to develop using native tools such as Kotlin.
+* Mobile Development with React Native - I am currently studying Java to start to develop using native tools.
 * User Interface Design.
 
 [![Twitter Badge](https://img.shields.io/badge/-@therealdavid98-121214?style=flat-square&labelColor=121214&logo=twitter&logoColor=white&link=https://twitter.com/therealdavid98)](https://twitter.com/therealdavid98) 
