@@ -1,15 +1,16 @@
-### About me 
-Hey there! I am David Lucas, 24 years old, living in Brazil.
+## About me
 
-I am a Technologist in Computer Networks from "IFPB - Instituto Federal da Paraíba" in 2021. I'm currently working as a mobile developer using React Native, but also I have experience using ReactJS for web applications. Also I love to work for user interface design.
+Hey there! I am David Lucas, 25 years old, living in Brazil.
 
-I started my own website so I could share a few things that I am working with, you can visit: https://davidev.com.br/
+I am a Technologist in Computer Networks from "IFPB - Instituto Federal da Paraíba" in 2021. I'm currently working as a software developer for mobile devices using React Native, but also I have experience using ReactJS for web applications. Also I love to work with user interface design.
+
+I started my own website so I could share a few things that I am working with, you can visit: https://davidev.com.br
 
 ⚡ Fun fact: I am crazy about Aviation.
 
-### Technologies
-* Frontend Development with HTML, CSS (SASS and Styled Component as well), JavaScript, React, NextJS and AngularJS.
-* Mobile Development with React Native - I am currently studying Java to start to develop using native tools.
+## Technologies
+* Frontend Development with HTML, CSS (SASS and Styled Component as well), JavaScript, React, NextJS and Angular +2.
+* Mobile Development with React Native (CLI & Expo)
 * User Interface Design.
 
 [![Twitter Badge](https://img.shields.io/badge/-@therealdavid98-121214?style=flat-square&labelColor=121214&logo=twitter&logoColor=white&link=https://twitter.com/therealdavid98)](https://twitter.com/therealdavid98) 
