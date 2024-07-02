@@ -1,6 +1,6 @@
 ## About me
 
-Hey there! I am David Lucas, 25 years old, living in Brazil.
+Hey there! I am David Lucas, 26 years old, living in Brazil.
 
 I am a Technologist in Computer Networks from "IFPB - Instituto Federal da Paraíba" in 2021. I'm currently working as a software developer for mobile devices using React Native, but also I have experience using ReactJS for web applications. Also I love to work with user interface design.
 
