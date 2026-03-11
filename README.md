@@ -1,18 +1,108 @@
-## About me
+# David Lucas
 
-Hey there! I am David Lucas, 27 years old, living in Brazil.
+Software Engineer | React • Next.js • React Native • Architecture
 
-I am a Technologist in Computer Networks from "IFPB - Instituto Federal da Paraíba" in 2021. I'm currently working as a software developer for mobile devices using React Native, but also I have experience using ReactJS for web applications. Also I love to work with user interface design.
+Brazil 🇧🇷
 
-I started my own website so I could share a few things that I am working with, you can visit: https://davidev.com.br
+---
 
-⚡ Fun fact: I am crazy about Aviation.
+## About Me
 
-## Technologies
-* Frontend Development with HTML, CSS (SASS and Styled Component as well), JavaScript, React, NextJS and Angular +2.
-* Mobile Development with React Native (CLI & Expo)
-* User Interface Design.
+Hey! I'm **David Lucas**, a Software Engineer with **5+ years of experience building web and mobile applications**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-David%20Lucas-121214?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-lucas-32695512a/)](https://www.linkedin.com/in/david-lucas-32695512a/) 
-[![Gmail Badge](https://img.shields.io/badge/-lucas1998david@gmail.com-121214?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas1998david@gmail.com)](mailto:lucas1998david@gmail.com)
+My main focus is **React, Next.js and React Native**, building scalable products, dashboards, and mobile apps used in production environments.
 
+I enjoy working with **frontend architecture, micro-frontends, design systems and developer experience**, but I also work across the stack when needed.
+
+Currently I build **AI-driven dashboards, mobile apps and SaaS platforms**, integrating APIs, authentication systems, analytics and cloud infrastructure.
+
+⚡ Fun fact: I'm passionate about aviation.
+
+---
+
+# Products & Projects
+
+## Rodando Certo
+
+https://rodandocerto.com.br
+
+A **SaaS platform for gig economy drivers (Uber, delivery, etc.)** designed to help drivers track profitability and operating costs.
+
+Features include:
+
+• Trip logging (distance, earnings)  
+• Fuel and maintenance tracking  
+• Profit analytics  
+• Driver financial insights  
+
+Built to help drivers understand **real profitability per trip**.
+
+---
+
+# Tech Stack
+
+### Frontend
+React  
+Next.js  
+TypeScript  
+JavaScript (ES6+)  
+HTML / CSS / SASS / Styled Components  
+Angular
+
+### Mobile
+React Native (CLI & Expo)  
+Android / Kotlin
+
+### State Management
+Redux Toolkit  
+Redux Saga / Thunk  
+React Query
+
+### Architecture
+Micro-frontends  
+Module Federation  
+single-spa  
+Clean Architecture
+
+### Backend & APIs
+REST APIs  
+GraphQL  
+FastAPI
+
+### Cloud & DevOps
+Docker  
+CI/CD  
+AWS  
+Firebase
+
+### Monitoring & Analytics
+Datadog  
+Firebase Analytics  
+Remote Config  
+CodePush
+
+### Design
+Figma  
+Design Systems  
+Reusable Component Libraries
+
+---
+
+# GitHub Stats
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereallucas98&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereallucas98&layout=compact&theme=tokyonight)
+
+---
+
+# Connect with me
+
+LinkedIn  
+https://www.linkedin.com/in/david-lucas-dev
+
+Email  
+lucas1998david@gmail.com
+
+Website  
+https://davidev.com.br
