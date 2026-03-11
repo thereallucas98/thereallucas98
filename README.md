@@ -86,16 +86,6 @@ Figma
 Design Systems  
 Reusable Component Libraries
 
----
-
-# GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereallucas98&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereallucas98&layout=compact&theme=tokyonight)
-
----
-
 # Connect with me
 
 LinkedIn  
